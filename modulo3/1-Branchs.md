@@ -15,4 +15,4 @@ Depois de testar o que desenvolvemos em nossa máquina (ambiente local), o códi
 A equipe de desenvolvimento cria novas branchs para separar e desenvolver novas soluções para um produto de forma simultânea, bem como melhorar funcionalidades já existentes, trabalhando de forma paralela e independente.
 
 ## Criando Branchs
-* git checkout -b NOMEBRANCHNOVA
+* git checkout -b NOMEBRANCHNOVA - Este comando vai criar e trocar pela nova branch
